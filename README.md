@@ -1,2 +1,2 @@
-# C-Programming-Studies-Exercises-Projects
-Code repository for C programming studies and personal projects
+# LinguagemC-Exercícios-Exemplos-Projetos
+Repositório de código para estudos de programação em C e projetos pessoais
