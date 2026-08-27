@@ -15,3 +15,9 @@ int main(){
     
     return(0);
 }
+/*
+
+- O "do-while" garante que o bloco execute pelo menos uma vez, pois a condição é
+verificada depois da execução. Perfeito para menus e validação da entrada do usuário.
+
+*/
