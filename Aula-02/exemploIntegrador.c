@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #define SALARIO_MINIMO 1412.00
 
 int main(){
